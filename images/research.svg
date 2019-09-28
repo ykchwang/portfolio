@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="60px" viewBox="0 0 100 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Apple-TV" transform="translate(-1323.000000, -294.000000)">
+            <g id="Group" transform="translate(1323.000000, 274.000000)">
+                <rect id="Rectangle" x="0" y="0" width="100" height="100"></rect>
+                <g id="Macbook" transform="translate(0.000000, 20.000000)" fill="#000000">
+                    <path d="M88,0 C89.6568542,-3.04359188e-16 91,1.34314575 91,3 L91,52 C91,53.6568542 89.6568542,55 88,55 L12,55 C10.3431458,55 9,53.6568542 9,52 L9,3 C9,1.34314575 10.3431458,3.04359188e-16 12,0 L88,0 Z M89,4 L11,4 L11,52 L89,52 L89,4 Z M50.35,2 C50.1567003,2 50,2.15670034 50,2.35 C50,2.54329966 50.1567003,2.7 50.35,2.7 C50.5432997,2.7 50.7,2.54329966 50.7,2.35 C50.7,2.15670034 50.5432997,2 50.35,2 Z" id="Combined-Shape"></path>
+                    <path d="M99.9449147,56 C99.695871,58.2496346 97.7884914,59.9992926 95.4724574,59.9992926 L4.47245735,59.9992926 C2.15642329,59.9992926 0.249043746,58.2496346 6.66387084e-13,56 L43.0582731,56.0006003 C43.2645601,56.5825133 43.8198367,56.9992926 44.4724574,56.9992926 L44.4724574,56.9992926 L55.4724574,56.9992926 C56.125078,56.9992926 56.6803546,56.5825133 56.8866416,56.0006003 L99.9449147,56 Z" id="Combined-Shape"></path>
+                </g>
+                <path d="M31.5,29 C31.6680073,29 31.8348761,29.0048743 32.0004728,29.0144892 L32,37 L39.9855686,37.0005248 C39.9951452,37.1657941 40,37.3323301 40,37.5 C40,42.1944204 36.1944204,46 31.5,46 C26.8055796,46 23,42.1944204 23,37.5 C23,32.8055796 26.8055796,29 31.5,29 Z" id="Combined-Shape" fill="#000000"></path>
+                <rect id="Rectangle" fill="#000000" x="20" y="65" width="5" height="2"></rect>
+                <rect id="Rectangle-Copy-3" fill="#000000" x="26" y="63" width="5" height="4"></rect>
+                <rect id="Rectangle-Copy-4" fill="#000000" x="32" y="61" width="5" height="6"></rect>
+                <rect id="Rectangle-Copy-5" fill="#000000" x="38" y="59" width="5" height="8"></rect>
+                <rect id="Rectangle" stroke="#000000" stroke-width="2" x="54" y="29" width="30" height="38"></rect>
+                <path d="M59.5,34.5 L77.5,34.5" id="Line" stroke="#000000" stroke-width="2" stroke-linecap="square"></path>
+                <path d="M59.5,39.5 L73.5,39.5" id="Line-Copy" stroke="#000000" stroke-width="2" stroke-linecap="square"></path>
+                <path d="M59.5,44.5 L77.5,44.5" id="Line-Copy-2" stroke="#000000" stroke-width="2" stroke-linecap="square"></path>
+                <path d="M59.5,49.5 L78.5,49.5" id="Line-Copy-3" stroke="#000000" stroke-width="2" stroke-linecap="square"></path>
+                <path d="M59.5,54.5 L74.5,54.5" id="Line-Copy-4" stroke="#000000" stroke-width="2" stroke-linecap="square"></path>
+                <path d="M59.5,59.5 L77.5,59.5" id="Line-Copy-5" stroke="#000000" stroke-width="2" stroke-linecap="square"></path>
+                <path d="M20.5,62.5 L40.5,55.5" id="Line-2" stroke="#000000" stroke-linecap="square"></path>
+                <polygon id="Triangle" fill="#000000" transform="translate(40.937923, 55.237923) rotate(69.000000) translate(-40.937923, -55.237923) " points="40.9379226 53.7379226 42.4379226 56.7379226 39.4379226 56.7379226"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

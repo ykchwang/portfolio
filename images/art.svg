@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="60px" viewBox="0 0 100 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>Group 7</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Apple-TV" transform="translate(-1434.000000, -262.000000)">
+            <g id="Group-7" transform="translate(1434.000000, 262.000000)">
+                <g id="Macbook" fill="#000000">
+                    <path d="M88,0 C89.6568542,-3.04359188e-16 91,1.34314575 91,3 L91,52 C91,53.6568542 89.6568542,55 88,55 L12,55 C10.3431458,55 9,53.6568542 9,52 L9,3 C9,1.34314575 10.3431458,3.04359188e-16 12,0 L88,0 Z M89,4 L11,4 L11,52 L89,52 L89,4 Z M50.35,2 C50.1567003,2 50,2.15670034 50,2.35 C50,2.54329966 50.1567003,2.7 50.35,2.7 C50.5432997,2.7 50.7,2.54329966 50.7,2.35 C50.7,2.15670034 50.5432997,2 50.35,2 Z" id="Combined-Shape"></path>
+                    <path d="M99.9449147,56 C99.695871,58.2496346 97.7884914,59.9992926 95.4724574,59.9992926 L4.47245735,59.9992926 C2.15642329,59.9992926 0.249043746,58.2496346 6.66387084e-13,56 L43.0582731,56.0006003 C43.2645601,56.5825133 43.8198367,56.9992926 44.4724574,56.9992926 L44.4724574,56.9992926 L55.4724574,56.9992926 C56.125078,56.9992926 56.6803546,56.5825133 56.8866416,56.0006003 L99.9449147,56 Z" id="Combined-Shape"></path>
+                </g>
+                <polygon id="Triangle" fill="#000000" points="21 35 23 39 19 39"></polygon>
+                <path d="M20.5005299,30.0803447 L21.8894701,27.999781" id="Line-5" stroke="#000000" stroke-width="2" stroke-linecap="square" transform="translate(21.195000, 29.040063) rotate(11.309932) translate(-21.195000, -29.040063) "></path>
+                <rect id="Rectangle" stroke="#000000" stroke-width="2" x="16" y="9" width="10" height="38"></rect>
+                <rect id="Rectangle-Copy-8" stroke="#000000" stroke-width="2" x="66" y="9" width="18" height="38"></rect>
+                <rect id="Rectangle" fill="#000000" x="19" y="12" width="4" height="4"></rect>
+                <path d="M42,25 L58,25 L58,41 L42,41 L42,25 Z" id="Rectangle-Copy-9" stroke="#000000" stroke-dasharray="1"></path>
+                <circle id="Oval" fill="#000000" cx="21" cy="21" r="2"></circle>
+                <circle id="Oval-Copy-6" stroke="#000000" cx="41" cy="21" r="9"></circle>
+                <circle id="Oval-Copy" fill="#000000" cx="73" cy="14" r="2"></circle>
+                <circle id="Oval-Copy-2" fill="#000000" cx="80" cy="20" r="2"></circle>
+                <path d="M70.0031316,14.0328429 L80.0011878,14.2300024" id="Line-6" stroke="#000000" stroke-width="2" stroke-linecap="square" transform="translate(75.002160, 14.131423) rotate(-1.129714) translate(-75.002160, -14.131423) "></path>
+                <path d="M70.0031316,20.0328429 L80.0011878,20.2300024" id="Line-6-Copy" stroke="#000000" stroke-width="2" stroke-linecap="square" transform="translate(75.002160, 20.131423) rotate(-1.129714) translate(-75.002160, -20.131423) "></path>
+                <circle id="Oval-Copy-3" fill="#000000" cx="77" cy="26" r="2"></circle>
+                <path d="M70.0031316,26.0328429 L80.0011878,26.2300024" id="Line-6-Copy-2" stroke="#000000" stroke-width="2" stroke-linecap="square" transform="translate(75.002160, 26.131423) rotate(-1.129714) translate(-75.002160, -26.131423) "></path>
+                <circle id="Oval-Copy-4" fill="#000000" cx="76" cy="32" r="2"></circle>
+                <path d="M70.0031316,32.0328429 L80.0011878,32.2300024" id="Line-6-Copy-3" stroke="#000000" stroke-width="2" stroke-linecap="square" transform="translate(75.002160, 32.131423) rotate(-1.129714) translate(-75.002160, -32.131423) "></path>
+                <circle id="Oval-Copy-5" fill="#000000" cx="70" cy="38" r="2"></circle>
+                <path d="M70.0031316,38.0328429 L80.0011878,38.2300024" id="Line-6-Copy-4" stroke="#000000" stroke-width="2" stroke-linecap="square" transform="translate(75.002160, 38.131423) rotate(-1.129714) translate(-75.002160, -38.131423) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

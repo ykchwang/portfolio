@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <clipPath id="clip-Lit_Review_5">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="Lit_Review_5" data-name="Lit Review – 5" clip-path="url(#clip-Lit_Review_5)">
+    <rect width="1920" height="1080" fill="#fff"/>
+    <text id="Literature_Review" data-name="Literature Review" transform="translate(67 106)" fill="#2b6faf" font-size="50" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Literature Review</tspan></text>
+    <line id="Line_8" data-name="Line 8" x2="444" y2="1" transform="translate(0.5 118.5)" fill="none" stroke="#f1595c" stroke-width="5"/>
+    <text id="Key_Takeaways" data-name="Key Takeaways" transform="translate(67 250)" font-size="40" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Key Takeaways</tspan></text>
+    <text id="Mobile_Friendly" data-name="Mobile Friendly" transform="translate(1043 391)" font-size="40" font-family="SegoeUI-SemiboldItalic, Segoe UI" font-weight="600" font-style="italic"><tspan x="0" y="0">Mobile Friendly</tspan></text>
+    <text id="Social_Media" data-name="Social Media" transform="translate(103 391)" font-size="40" font-family="SegoeUI-SemiboldItalic, Segoe UI" font-weight="600" font-style="italic"><tspan x="0" y="0">Social Media</tspan></text>
+    <g id="Group_17" data-name="Group 17" transform="translate(-1261 312)">
+      <text id="People_mostly_get_news_and_information_from_social_media" data-name="People mostly get news and information
+from social media" transform="translate(1400 169)" font-size="36" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">People mostly get news and information</tspan><tspan x="0" y="48">from social media</tspan></text>
+      <circle id="Ellipse_237" data-name="Ellipse 237" cx="7.5" cy="7.5" r="7.5" transform="translate(1364 149)"/>
+    </g>
+    <g id="Group_36" data-name="Group 36" transform="translate(-1261 483)">
+      <text id="Social_media_can_drive_traffic_to_website" data-name="Social media can drive traffic to website" transform="translate(1400 169)" font-size="36" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Social media can drive traffic to website</tspan></text>
+      <circle id="Ellipse_237-2" data-name="Ellipse 237" cx="7.5" cy="7.5" r="7.5" transform="translate(1364 149)"/>
+    </g>
+    <g id="Group_37" data-name="Group 37" transform="translate(-321 312)">
+      <text id="People_use_mobile_phone_to_browse_the_web_in_the_US" data-name="People use mobile phone to browse the
+web in the US" transform="translate(1400 169)" font-size="36" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">People use mobile phone to browse the</tspan><tspan x="0" y="48">web in the US</tspan></text>
+      <circle id="Ellipse_237-3" data-name="Ellipse 237" cx="7.5" cy="7.5" r="7.5" transform="translate(1364 149)"/>
+    </g>
+    <g id="Group_38" data-name="Group 38" transform="translate(-321 483)">
+      <text id="People_consume_information_and_news_through_mobile_devices" data-name="People consume information and news
+through mobile devices" transform="translate(1400 169)" font-size="36" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">People consume information and news</tspan><tspan x="0" y="48">through mobile devices</tspan></text>
+      <circle id="Ellipse_237-4" data-name="Ellipse 237" cx="7.5" cy="7.5" r="7.5" transform="translate(1364 149)"/>
+    </g>
+    <g id="Group_39" data-name="Group 39" transform="translate(-1261 606)">
+      <text id="Social_media_has_become_the_source_when_users_want_to_gain_information_and_news" data-name="Social media has become the source when
+users want to gain information and news" transform="translate(1400 169)" font-size="36" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Social media has become the source when</tspan><tspan x="0" y="48">users want to gain information and news</tspan></text>
+      <circle id="Ellipse_237-5" data-name="Ellipse 237" cx="7.5" cy="7.5" r="7.5" transform="translate(1364 149)"/>
+    </g>
+  </g>
+</svg>
